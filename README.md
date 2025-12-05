@@ -25,3 +25,12 @@ The syllabus is available [here](Syllabus.pdf), along with [appendices](Appendic
 Many of the exercises are based on those developed by Paul Waddell and Geoff Boeing for CP255: Urban Informatics and Visualization at the University of California at Berkeley.  Those materials are available from: 
 
 	https://github.com/waddell/urban-informatics-and-visualization
+
+**Updates and Modern installs with AI**
+
+This course is a few years old and some of the exercises may need updates for new versions of the packages we use.  That's part of the fun! :)  In 2023, I started teaching a variation of it as CE 610: Big Data and Supply Chain Analytics.  In making that switch, I changed some content and began using Github Classroom for students to submit assignments.  If you are interested in working through those materials and assignments, please get in touch.  
+
+In 2025, I began experimenting with AI chatbots for coding support.  I took this as an opportunity to modernize my workflow.  For my current recommended installs, see: 
+
+https://github.com/gregerhardt/py-datasci-installs
+
